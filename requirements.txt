@@ -1,0 +1,15 @@
+# Core NLP and Embeddings
+sentence-transformers==2.2.2
+transformers==4.35.0
+torch==2.1.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# GenAI Integration
+google-generativeai>=0.8.0
+
+# Utilities
+python-dotenv==1.0.0
